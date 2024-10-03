@@ -5,8 +5,6 @@ Welcome to the repository for the **Machine Learning Lecture** at HTW Berlin. Th
 ## Repository Structure
 
 - ``notebooks/``: Contains all the Jupyter notebooks used in the lecture. Each notebook covers different machine learning topics, exercises, and examples.
-  
-- ``environment.yml``: YAML file with specifications for creating a conda environment containing all necessary packages for running the notebooks.
 
 ## Topics Covered
 
