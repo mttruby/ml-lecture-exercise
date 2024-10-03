@@ -35,7 +35,7 @@ To get started with these notebooks, you'll need to set up the conda environment
    Create the environment using the `environment.yml` file:
 
    ```bash
-   conda env create -f environment.yml
+   conda create -n ml-exercise-env python=3.9
    ```
 
 3. **Activate the Environment**
@@ -46,7 +46,15 @@ To get started with these notebooks, you'll need to set up the conda environment
    conda activate ml-lecture-env
    ```
 
-4. **Launch Jupyter Notebook**
+4. **Install packages**
+
+    Install all packages with ``pip``:
+
+    ```bash
+   pip install -r requirements.txt
+   ```
+
+5. **Launch Jupyter Notebook**
 
    Start the Jupyter Notebook server:
 
