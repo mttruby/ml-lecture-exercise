@@ -30,7 +30,7 @@ To get started with these notebooks, you'll need to set up the conda environment
 
 2. **Create the Conda Environment**
 
-   Create the environment using the `environment.yml` file:
+   Create the environment (python 3.9 is compatible with torch):
 
    ```bash
    conda create -n ml-exercise-env python=3.9
@@ -61,6 +61,8 @@ To get started with these notebooks, you'll need to set up the conda environment
    ```
 
    Navigate through the browser to access and run the notebooks available in the repository.
+   
+   **Since the notebooks are designed for solving tasks and experimentation, it can be reasonable to copy the repective notebooks beforehand and leave them untracked in the repository.** Solutions should be not part of the repository :)
 
 ## Using Version Control with Jupyter Notebooks
 
