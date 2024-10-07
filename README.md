@@ -25,7 +25,7 @@ To get started with these notebooks, you'll need to set up the conda environment
 
    ```bash
    git clone https://github.com/HTW-Berlin-KI-Werkstatt/ml-lecture-exercise.git
-   cd ml-lecture
+   cd ml-lecture-exercise
    ```
 
 2. **Create the Conda Environment**
