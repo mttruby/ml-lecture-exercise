@@ -84,3 +84,5 @@ ipython_config.py
 
 # Pyre type checker
 .pyre/
+
+*_solution.ipynb

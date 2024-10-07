@@ -28,7 +28,7 @@ To get started with these notebooks, you'll need to set up the conda environment
    cd ml-lecture
    ```
 
-2. **Create the Conda Environment**
+2. **Option 1: Create the Environment with Conda**
 
    Create the environment (python 3.9 is compatible with torch):
 
@@ -36,15 +36,25 @@ To get started with these notebooks, you'll need to set up the conda environment
    conda create -n ml-exercise-env python=3.9
    ```
 
-3. **Activate the Environment**
-
    Activate the newly created environment:
 
    ```bash
    conda activate ml-lecture-env
    ```
 
-4. **Install packages**
+2. **Option 2: Create the Environment with VirtualEnv**
+
+   Create the environment with venv as follows (please use python 3.9):
+   ```bash
+   python -m venv venv
+   ```
+
+   and activate the environment
+   ```bash
+   source venv/bin/activate # or venv/bin/activate
+   ```
+
+3. **Install packages**
 
     Install all packages with ``pip``:
 
@@ -52,7 +62,7 @@ To get started with these notebooks, you'll need to set up the conda environment
    pip install -r requirements.txt
    ```
 
-5. **Launch Jupyter Notebook**
+4. **Launch Jupyter Notebook**
 
    Start the Jupyter Notebook server:
 
@@ -61,6 +71,8 @@ To get started with these notebooks, you'll need to set up the conda environment
    ```
 
    Navigate through the browser to access and run the notebooks available in the repository.
+   Alternatively you can use jupyter notebooks within VS-Code.
+
    
    **Since the notebooks are designed for solving tasks and experimentation, it can be reasonable to copy the repective notebooks beforehand and leave them untracked in the repository.** Solutions should be not part of the repository :)
 
