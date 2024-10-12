@@ -86,3 +86,4 @@ ipython_config.py
 .pyre/
 
 *_solution.ipynb
+*_temp.ipynb
