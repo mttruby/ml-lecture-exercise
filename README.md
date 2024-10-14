@@ -39,7 +39,7 @@ To get started with these notebooks, you'll need to set up the conda environment
    Activate the newly created environment:
 
    ```bash
-   conda activate ml-lecture-env
+   conda activate ml-exercise-env
    ```
 
 2. **Option 2: Create the Environment with VirtualEnv**
