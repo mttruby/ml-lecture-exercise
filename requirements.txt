@@ -10,3 +10,6 @@ scipy>=1.13.1
 nbstripout
 tqdm>=4.66.5
 openml
+transformers
+ipywidgets
+gdown
