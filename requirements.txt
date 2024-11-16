@@ -14,4 +14,3 @@ transformers
 ipywidgets
 gdown
 torchviz
-graphviz
