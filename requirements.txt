@@ -13,3 +13,5 @@ openml
 transformers
 ipywidgets
 gdown
+torchviz
+graphviz
