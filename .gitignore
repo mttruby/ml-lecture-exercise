@@ -89,3 +89,5 @@ ipython_config.py
 *_temp.ipynb
 
 notebooks/data/
+visualizations/*.gif
+visualizations/*.svg
