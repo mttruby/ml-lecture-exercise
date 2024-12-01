@@ -87,6 +87,7 @@ ipython_config.py
 
 *_solution.ipynb
 *_temp.ipynb
+*_copy.ipynb
 
 notebooks/data/
 visualizations/*.gif
