@@ -92,3 +92,4 @@ ipython_config.py
 notebooks/data/
 visualizations/*.gif
 visualizations/*.svg
+notebooks/07/cifar10
