@@ -94,3 +94,5 @@ visualizations/*.gif
 visualizations/*.svg
 notebooks/07/cifar10
 notebooks/07/FasionMNIST
+
+notebooks/08/openai.json
